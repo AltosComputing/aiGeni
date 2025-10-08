@@ -1,0 +1,30 @@
+{
+  "version_info": {
+    "next_version": "0.0.33",
+    "stable_version": "0.0.31",
+    "upgrade_policy": {
+      "min_supported_version": "0.0.28",
+      "max_supported_version": "0.0.33",
+      "allow_downgrade": false,
+      "notes": "Upgrade allowed only from 0.0.28 and above. Downgrade not supported."
+    },
+    "release_notes": {
+      "0.0.33": {
+        "date": "2025-10-08",
+        "summary": "bug fix",
+        "details": [
+          "Fixed bug#151",
+          "Fixed bug#150"
+        ]
+      },
+      "0.0.31": {
+        "date": "2025-09-15",
+        "summary": "bug fix",
+        "details": [
+          "Fixed bug#141",
+          "Fixed bug#140"
+        ]
+      }
+    }
+  }
+}
