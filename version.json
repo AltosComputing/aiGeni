@@ -1,6 +1,6 @@
 {
   "version_info": {
-    "next_version": "0.00.0047",
+    "next_version": "0.00.0048",
     "stable_version": "0.00.0047",
     "upgrade_policy": {
       "min_supported_version": "0.0.28",
